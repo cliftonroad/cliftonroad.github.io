@@ -10221,6 +10221,7 @@ body {
   display: block;
   max-width: 100%;
   height: auto;
+  
 }
 
 .masthead {
@@ -10229,7 +10230,7 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000000 100%), url("../assets/img/bg-masthead.jpg"); /* Source: https://unsplash.com/photos/A5wBz0qX3wU */
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000000 100%), url("../assets/img/bg-masthead.jpg"); 
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
