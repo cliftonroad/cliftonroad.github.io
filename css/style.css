@@ -819,7 +819,25 @@ h6 {
     height: 2em;
 }
 
+.icon-3x[class^='iconoir-']::before, .icon-3x[class*=' iconoir-']::before {
+    width: 3em;
+    height: 3em;
+}
 
+.icon-4x[class^='iconoir-']::before, .icon-4x[class*=' iconoir-']::before {
+    width: 4em;
+    height: 4em;
+}
+
+.icon-5x[class^='iconoir-']::before, .icon-5x[class*=' iconoir-']::before {
+    width: 5em;
+    height: 5em;
+}
+
+.icon-6x[class^='iconoir-']::before, .icon-6x[class*=' iconoir-']::before {
+    width: 6em;
+    height: 6em;
+}
 /*Icon Block*/
 
 .icon-block {
